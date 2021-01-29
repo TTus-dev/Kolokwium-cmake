@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/zad4.dir/src/libtest.cpp.o  -o zad4 libzad4_lib.a 
